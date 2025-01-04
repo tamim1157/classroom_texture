@@ -1,0 +1,32 @@
+﻿  glad.c
+  main.cpp
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\basic_camera.h(92,9): warning C4068: unknown pragma 'oncea'
+  (compiling source file 'main.cpp')
+  
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\sphere.h(198,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\sphere.h(199,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\sphere.h(203,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(343,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(344,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(476,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(477,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(404,124): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(404,101): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(404,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(404,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(405,19): warning C4101: 'color': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(776,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(776,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(886,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(886,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\main.cpp(886,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  stb_image.cpp
+  Generating Code...
+  LINK : C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\x64\Debug\Lab_2_provided.exe not found or not built by the last incremental link; performing full link
+  Lab_2_provided.vcxproj -> C:\Users\ASUS\Documents\output\Lab_2_provided\Lab_2_provided\x64\Debug\Lab_2_provided.exe
