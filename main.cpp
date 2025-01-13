@@ -1,6 +1,4 @@
-// Naimur Rahman
-// Roll: 1907031
-// 3D Classroom Assignment
+
 
 #include <glad/glad.h>
 #include <GLFW/glfw3.h>
